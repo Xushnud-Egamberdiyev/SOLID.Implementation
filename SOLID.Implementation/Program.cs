@@ -1,0 +1,5 @@
+﻿//S => SRP  Single Responsibility Principle(Yagona javobgarlik printsipi)
+//O => OCP Open/Closed Principle (ochiq/yopiq printsip)
+//L => LSP Liskov Substitution Principle (Liskov almashtirish printsipi )
+//I => ISP Interface Segregation Principle (Interfeysni ajratish printsipi)
+//D => DIP Dependency Inversion Principle (Bog'liqlik inversiyasi printsipi)
